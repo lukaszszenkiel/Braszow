@@ -1,2 +1,5 @@
 * [Strona główna](./README.md)
-* [Szachy](./szachy.md)
+* [Transport](./transport.md)
+* [Atrakcje](./atrakcje.md)
+* [Zakwaterowanie](./zakwaterowanie.md)
+* [Plan dnia](./plandnia.md)
