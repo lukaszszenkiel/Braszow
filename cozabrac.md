@@ -1,6 +1,6 @@
 # 🇷🇴 Co należy zabrać?
 
-## 🧥 
+## 🧥 Odzież
 - [ ] Kurtka
 - [ ] Czapka
 - [ ] Szalik
@@ -14,7 +14,7 @@
 - [ ] Ładowarka
 - [ ] Powerbank
 
-## 💳 Dokumenty i finanse
+## 💳 Dokumenty i pieniądze
 - [ ] Dowód osobisty/paszport
 - [ ] Gotówka (ewentualnie)
 - [ ] Środki na Revolucie
