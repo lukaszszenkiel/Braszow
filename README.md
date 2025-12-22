@@ -9,4 +9,4 @@
 
 ---
 
-![Na wyprawie](nawyprawie.jpg)
+<img src="nawyprawie.jpg" style="width: 100%; display: block; margin: 0 auto;">
