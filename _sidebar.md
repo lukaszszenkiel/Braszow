@@ -4,3 +4,4 @@
 * [Zakwaterowanie](./zakwaterowanie.md)
 * [Plan dnia](./plandnia.md)
 * [Co zabrać?](./cozabrac.md)
+* [Rozliczenie wydatków](./rozliczenie.md)
