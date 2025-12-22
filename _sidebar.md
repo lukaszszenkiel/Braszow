@@ -3,3 +3,4 @@
 * [Atrakcje](./atrakcje.md)
 * [Zakwaterowanie](./zakwaterowanie.md)
 * [Plan dnia](./plandnia.md)
+* [Co zabrać?](./cozabrac.md)
