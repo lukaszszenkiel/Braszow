@@ -4,12 +4,15 @@
 ### Przedpołudnie
 - dojazd do Berlina
 - Lot: 8:45(czasu polskiego) - 11:55 (czasu lokalnego)
+  
 ### Popołudnie
 - zakwaterowanie
 - szama
 - piwkowanie
+  
 ### Wieczór
-20:00 - początek meczu Zagłębia
+- 20:00 - początek meczu Zagłębia
+- 22:00 - gorączka sobotniej nocy
 
 ## Niedziela
 - śniadanie (prawdopodobnie późne)
