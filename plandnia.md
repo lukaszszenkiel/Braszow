@@ -9,6 +9,10 @@ Konkretny rozkład jazdy dla ekipy **Kwas Omega 3**.
 * **Popołudnie:** Zakwaterowanie, szybka szama i pierwsze piwkowanie na siedmiogrodzkiej ziemi.
 * **Wieczór:**
     * 🤾‍♀️ **20:00 – MECZ ZAGŁĘBIA!** (Meldujemy się wcześniej w hali).
+      ``` adres hali
+      Bulevardul Gării nr. 21,
+      cod poștal 500218
+      ```
     * 🕺 **22:00 – Gorączka sobotniej nocy.** Podbój Braszowa po meczu.
 
 ## 📅 Niedziela
