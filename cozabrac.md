@@ -22,7 +22,7 @@
 - [ ] Portfel
 - [ ] Bilety i potwierdzenia rezerwacji
 
-## 💊 Kosmetyczka i apteczka
+## 💊 Kosmetyki
 - [ ] Szczoteczka
 - [ ] Pasta (wystarczy jak jedna osoba zabierze)
 - [ ] Chusteczki
