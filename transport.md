@@ -1,4 +1,4 @@
-# Loty
+### Loty
 
 | |W pierwszą stronę|Powrotny|
 |-|-----------------|--------|
@@ -8,4 +8,4 @@
 
 ---
 
-# W Rumunii
+### W Rumunii
