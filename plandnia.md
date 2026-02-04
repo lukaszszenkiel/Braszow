@@ -25,7 +25,7 @@ Konkretny rozkład jazdy dla ekipy **Kwas Omega 3**.
 * **Rano:** Ostatnie wspólne śniadanie i wykwaterowanie.
 * **Południe:** Ok. **11:30** wyjazd z Braszowa w stronę lotniska.
 * **Popołudnie:**  ✈️ **Wylot:** 16:35.
-* **Powrót do domu:** Szybę ostawiamy w Iłowie.
+* **Powrót do domu:** Szybę odstawiamy w Iłowie.
 
 ---
 **Pamiętaj:**
