@@ -17,7 +17,7 @@
 ## 💳 Dokumenty i pieniądze
 - [ ] Dowód osobisty/paszport
 - [ ] Gotówka (ewentualnie)
-- [ ] Środki na Revolucie
+- [x] Środki na Revolucie
 - [ ] Karta EKUZ
 - [ ] Portfel
 - [ ] Bilety i potwierdzenia rezerwacji
