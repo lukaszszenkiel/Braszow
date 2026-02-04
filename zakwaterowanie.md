@@ -1,7 +1,7 @@
 # 🏨 Aparthotel Brasov
 **Adres:**  
-2 Strada Teiuș  
-500251 Braszów, Rumunia  
+32 Strada Traian  
+500332 Braszów, Rumunia  
 📌 Dobry punkt startowy — cicha okolica, łatwy dojazd. 
 
 ---
