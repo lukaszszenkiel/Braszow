@@ -1,4 +1,4 @@
-# 🇷🇴 Co należy zabrać?
+# Co należy zabrać?
 
 ## 🧥 Odzież
 - [ ] Kurtka
