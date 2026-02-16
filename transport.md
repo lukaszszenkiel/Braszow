@@ -1,6 +1,6 @@
 ### Do Berlina  
 
-Prawdopodobie trzeba zgarnąć Szybę i jechać przez `Zgorzelec`. **Godzina wyjazdu:** do ustalenia. 
+Uczestnicy wyprawy spotkają się na zgrupowaniu kadry na `Topo`, skąd są odbierani. **Godzina wyjazdu:** 3:00. 
 
 ---
 
