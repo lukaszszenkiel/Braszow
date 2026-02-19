@@ -1,14 +1,15 @@
 # Co należy zabrać?
 
 ## 🧥 Odzież
-- [ ] Kurtka
 - [ ] Czapka
 - [ ] Szalik
 - [ ] Rękawiczki
 - [ ] Barwy
 - [ ] Bielizna (ciepłe skarpety!)
+- [ ] Kalesony
 - [ ] Koszulki
 - [ ] Dresik
+- [ ] Piżama
 
 ## 🎒 Akcesoria i elektronika
 - [ ] Ładowarka
