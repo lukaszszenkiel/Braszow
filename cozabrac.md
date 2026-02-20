@@ -4,16 +4,16 @@
 - [x] Czapka
 - [ ] Szalik
 - [x] Rękawiczki
-- [ ] Barwy
+- [x] Barwy
 - [x] Bielizna (ciepłe skarpety!)
 - [x] Kalesony
 - [x] Koszulki
-- [ ] Dresik
-- [ ] Piżama
+- [x] Dresik
+- [x] Piżama
 
 ## 🎒 Akcesoria i elektronika
-- [ ] Ładowarka
-- [ ] Powerbank
+- [x] Ładowarka
+- [x] Powerbank
 
 ## 💳 Dokumenty i pieniądze
 - [x] Dowód osobisty/paszport
@@ -21,10 +21,10 @@
 - [x] Środki na Revolucie
 - [x] Karta EKUZ
 - [x] Portfel
-- [ ] Bilety i potwierdzenia rezerwacji
+- [x] Bilety i potwierdzenia rezerwacji
 
 ## 💊 Kosmetyki
-- [ ] Szczoteczka
+- [x] Szczoteczka
 - [ ] Pasta (wystarczy jak jedna osoba zabierze)
 - [ ] Chusteczki
 - [x] Ogolić się przed wyjazdem (żeby nie brać pianki)
