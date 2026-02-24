@@ -10,44 +10,128 @@
 
 ---
 ### Wydatki
-#### Apartament
-**Płacący:** Koral  
-**Kwota:** 1251.50 zł  
+#### Parking
+**Płacący:** Łuko  
+**Kwota:** 172.60 zł  
 **Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
-**Należność na głowę:** 250.30 zł
+**Należność na głowę:** 34.52 zł
 
-#### Bilety na mecz
-**Płacący:** Koral  
-**Kwota:** 103.50 zł  
+#### Obiad
+**Płacący:** Łuko  
+**Kwota:** 273.90 zł  
 **Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
-**Należność na głowę:** 20.70 zł
+**Należność na głowę:** 54.78 zł
+
+#### Paliwo Skoda
+**Płacący:** Łuko  
+**Kwota:** 273.00 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 54.60 zł
+
+#### Paliwo Rumunia
+**Płacący:** Szyna  
+**Kwota:** 239.26 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 47.85 zł
+
+#### Hokej Mustata
+**Płacący:** Szyna  
+**Kwota:** 166.00 zł  
+**Beneficjenci wydatku:** Szyna, Cierlo, Koral  
+**Należność na głowę:** 55.33 zł
+
+#### Zakupy spożywcze na niedzielę
+**Płacący:** Szyna  
+**Kwota:** 182.43 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 36.49 zł
+
+#### Finlanida
+**Płacący:** Szyna  
+**Kwota:** 90.47 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 18.09 zł
+
+#### Hantaverna
+**Płacący:** Szyna  
+**Kwota:** 545.31 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 109.06 zł
+
+#### Cierlo - wszelkie wydatki
+**Płacący:** Cierlo  
+**Kwota:** 500.00 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 100.00 zł
+
+#### Zakupy spożywcze na sobotę
+**Płacący:** Koral  
+**Kwota:** 128.99 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 25.80 zł
+
+#### Opłata klimatyczna
+**Płacący:** Koral  
+**Kwota:** 99.77 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 19.95 zł
+
+#### Małpki
+**Płacący:** Koral  
+**Kwota:** 82.00 zł  
+**Beneficjenci wydatku:** Koral, Cierlo  
+**Należność na głowę:** 41.00 zł
+
+#### Bryka
+**Płacący:** Cichy  
+**Kwota:** 211.00 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 42.20 zł
+
+#### Kluby
+**Płacący:** Cichy  
+**Kwota:** 211.00 zł  
+**Beneficjenci wydatku:** Łuko, Cierlo, Cichy  
+**Należność na głowę:** 70.33 zł
+
+#### Taxi
+**Płacący:** Cichy  
+**Kwota:** 130.00 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 26.00 zł
+
+#### Bolt
+**Płacący:** Koral  
+**Kwota:** 50.00 zł  
+**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
+**Należność na głowę:** 10.00 zł
 
 ---
 ### Indywidualny koszt
 |Osoba|Należność|
 |---|---|
-|Szyna|271.00 zł|
-|Łuko|271.00 zł|
-|Cierlo|271.00 zł|
-|Cichy|271.00 zł|
-|Koral|271.00 zł|
+|Szyna|634.68 zł|
+|Łuko|649.68 zł|
+|Cierlo|746.01 zł|
+|Cichy|649.68 zł|
+|Koral|675.68 zł|
 ---
 ### Rozliczenie
 
-Szyna --- 271.00 zł ---> Koral
+Cierlo --- 246.01 zł ---> Szyna
 
 
-Łuko --- 271.00 zł ---> Koral
+Cichy --- 97.68 zł ---> Szyna
 
 
-Cierlo --- 271.00 zł ---> Koral
+Koral --- 245.10 zł ---> Szyna
 
 
-Cichy --- 271.00 zł ---> Koral
+Koral --- 69.82 zł ---> Łuko
 
 
 ---
 ### Diagram rozliczenia
 <p align="center"><img src="diagram_rozliczenie.png" width="600"/></p>
 
-*Raport wygenerowano: 04-02-2026 22-21-38*
+*Raport wygenerowano: 24-02-2026 19-24-26*
