@@ -46,12 +46,6 @@
 **Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
 **Należność na głowę:** 36.49 zł
 
-#### Finlanida
-**Płacący:** Szyna  
-**Kwota:** 90.47 zł  
-**Beneficjenci wydatku:** Szyna, Łuko, Cierlo, Cichy, Koral  
-**Należność na głowę:** 18.09 zł
-
 #### Hantaverna
 **Płacący:** Szyna  
 **Kwota:** 545.31 zł  
@@ -110,28 +104,28 @@
 ### Indywidualny koszt
 |Osoba|Należność|
 |---|---|
-|Szyna|634.68 zł|
-|Łuko|649.68 zł|
-|Cierlo|746.01 zł|
-|Cichy|649.68 zł|
-|Koral|675.68 zł|
+|Szyna|616.58 zł|
+|Łuko|631.58 zł|
+|Cierlo|727.92 zł|
+|Cichy|631.58 zł|
+|Koral|657.58 zł|
 ---
 ### Rozliczenie
 
-Cierlo --- 246.01 zł ---> Szyna
+Cierlo --- 227.92 zł ---> Szyna
 
 
-Cichy --- 97.68 zł ---> Szyna
+Cichy --- 79.58 zł ---> Szyna
 
 
-Koral --- 245.10 zł ---> Szyna
+Koral --- 208.91 zł ---> Szyna
 
 
-Koral --- 69.82 zł ---> Łuko
+Koral --- 87.91 zł ---> Łuko
 
 
 ---
 ### Diagram rozliczenia
 <p align="center"><img src="diagram_rozliczenie.png" width="600"/></p>
 
-*Raport wygenerowano: 24-02-2026 19-24-26*
+*Raport wygenerowano: 25-02-2026 09-12-04*
